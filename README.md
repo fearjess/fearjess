@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @fearjess
+- 👀 I’m interested in Salesforce...
+- 🌱 I’m currently learning Salesforce Service Cloud Voice...
+- 💞️ I'm not looking to collaborate...
+
+<!---
+fearjess/fearjess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
